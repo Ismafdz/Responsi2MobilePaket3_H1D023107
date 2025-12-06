@@ -139,7 +139,7 @@ Bertugas sebagai jembatan antara Tampilan (UI) dan Backend (API).
 2.  Pastikan database `toko_api` memiliki tabel `buku`, `member`, dan `member_token`.
 3.  Jalankan server CI4 dengan host IP Laptop:
     ```bash
-    php spark serve --host [IP_LAPTOP_ANDA]
+    php spark serve --host [IP laptop]
     ```
 
 ### Persiapan Mobile
