@@ -13,7 +13,7 @@ Aplikasi inventaris barang (kategori Buku) berbasis mobile menggunakan **Flutter
 
 ---
 
-## 🎥 Video Demo Aplikasi
+## Video Demo Aplikasi
 
 Berikut adalah demonstrasi penggunaan aplikasi mulai dari Login, Registrasi, hingga CRUD Buku:
 
@@ -22,7 +22,7 @@ Berikut adalah demonstrasi penggunaan aplikasi mulai dari Login, Registrasi, hin
 
 ---
 
-## 🔌 Spesifikasi API (Backend)
+## Spesifikasi API (Backend)
 
 Aplikasi ini terhubung dengan backend CodeIgniter 4. Berikut adalah dokumentasi Endpoint API yang digunakan:
 
@@ -94,7 +94,7 @@ Aplikasi ini terhubung dengan backend CodeIgniter 4. Berikut adalah dokumentasi 
 
 ---
 
-## 💻 Penjelasan Kode & Fungsi
+## Penjelasan Kode & Fungsi
 
 Aplikasi dibangun dengan struktur folder yang terorganisir untuk memisahkan Logic, UI, dan Data.
 
@@ -132,7 +132,7 @@ Bertugas sebagai jembatan antara Tampilan (UI) dan Backend (API).
 
 ---
 
-## 🚀 Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### Persiapan Backend
 1.  Pastikan XAMPP/Laragon berjalan (Apache & MySQL).
